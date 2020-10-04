@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/main.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/main.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/main.cpp"
+},
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/host.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/host.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/host.cpp"
+},
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/manager.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/manager.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/manager.cpp"
+},
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/tools/datatype.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/tools/datatype.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/tools/datatype.cpp"
+},
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/database/ConnectionPool.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/database/ConnectionPool.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/database/ConnectionPool.cpp"
+},
+{
+  "directory": "/home/sangddung/lec-iot/homework/dns-01/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++-7    -g   -o CMakeFiles/dns-server.dir/database/HostRepository.cpp.o -c /home/sangddung/lec-iot/homework/dns-01/database/HostRepository.cpp",
+  "file": "/home/sangddung/lec-iot/homework/dns-01/database/HostRepository.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/dns-server.dir/main.cpp.o CMakeFiles/dns-server.dir/host.cpp.o CMakeFiles/dns-server.dir/manager.cpp.o CMakeFiles/dns-server.dir/tools/datatype.cpp.o CMakeFiles/dns-server.dir/database/ConnectionPool.cpp.o CMakeFiles/dns-server.dir/database/HostRepository.cpp.o  -o dns-server -lmysqlcppconn 
